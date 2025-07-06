@@ -1,0 +1,19 @@
+{
+  "name": "NeuraX Token List",
+  "timestamp": "2025-07-06T17:08:47.988593+00:00",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "tokens": [
+    {
+      "chainId": 11155111,
+      "address": "0xd03207CfC8e0c2f550B5BE8B53D8f2A2934cB31c",
+      "name": "NeuraX Token",
+      "symbol": "NRX",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/yourusername/token-list/main/logos/neurax.png"
+    }
+  ]
+}
